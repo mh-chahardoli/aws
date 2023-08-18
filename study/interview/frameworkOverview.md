@@ -82,6 +82,7 @@ What is Operational Excellence Pillar about?
 </summary>
 
 The Operational Excellence pillar includes the ability to support development and run workloads effectively, gain insight into their operations, and to continuously improve supporting processes and procedures to deliver business value.
+
 </details>
 
 <details>
@@ -106,16 +107,13 @@ Describe some operational excellence design principles.
 Describe some best practice areas for operational excellence in the cloud
 </summary>
 
-</details>
-
-# Operational Excellence Pillar
-
-# Security Pillar
-
-# Reliability Pillar
-
-# Performance Efficiency Pillar
-
-# Cost Optimization Pillar
-
-# Sustainability Pillar
+- **Organization**
+  - For successful business outcomes, ensure shared understanding among teams about the workload, roles, and business goals. Establish clear priorities that maximize efforts' benefits, evaluate customer needs to understand required support, and verify alignment with governance, compliance, and industry standards. Regularly review and update priorities to adapt to changing needs.
+  - Assess and document business threats, including risk, liabilities, and security concerns in a risk registry. Consider impacts, trade-offs, and prioritize efforts while balancing factors like speed to market, cost optimization, and technology choices. Manage benefits and risks to make informed decisions, addressing risks as needed based on changing circumstances.
+  - Foster mutual understanding among teams about their roles, responsibilities, and shared goals to enhance collaboration. Recognize the customer, organizational context, team composition, and workload specifics that shape each team's needs, acknowledging that a single operating model may not suit all teams' diverse requirements within the organization.
+  - Verify that there are identified owners for each application, workload, platform, and infrastructurecomponent, and that each process and procedure has an identified owner responsible for its definition, and owners responsible for their performance.
+  - Comprehending the business value, purpose, and ownership of components and procedures guides team members' actions. Clearly define responsibilities and mechanisms for recognizing ownership. Foster innovation by enabling requests for changes and exceptions, while defining collaborative agreements between teams to ensure mutual support and business success.
+  - Support team members to enhance their effectiveness in contributing to business outcomes. Engage senior leadership to set expectations, sponsor best practices, and drive organizational evolution. Encourage proactive action by team members to address risks promptly, while ensuring clear communication of risks and events for timely and informed decision-making.
+  - Promote experimentation for continuous learning and engagement, enabling skill growth to adapt to new technologies and responsibilities. Dedicate structured learning time, provide necessary resources, and leverage cross-organizational diversity to enhance innovation, challenge assumptions, and reduce confirmation bias. Foster inclusion, diversity, and accessibility within teams to gain valuable perspectives and insights.
+  - Leverage tools like AWS Organizations and services such as AWS Control Tower for centralized environment governance across accounts, facilitating operating model management and automated provisioning. Partner with Managed Services providers, including AWS Managed Services, to implement cloud environments, ensuring security, compliance, and business objectives. Integrating Managed Services into your operating model streamlines operations, saves resources, and enables your internal teams to focus on strategic differentiation rather than acquiring new skills.
+  </details>
