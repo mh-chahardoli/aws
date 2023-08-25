@@ -104,16 +104,30 @@ Describe some operational excellence design principles.
 
 <details>
 <summary>
-Describe some best practice areas for operational excellence in the cloud
+How do you determine what your priorities are?
 </summary>
 
-- **Organization**
-  - For successful business outcomes, ensure shared understanding among teams about the workload, roles, and business goals. Establish clear priorities that maximize efforts' benefits, evaluate customer needs to understand required support, and verify alignment with governance, compliance, and industry standards. Regularly review and update priorities to adapt to changing needs.
-  - Assess and document business threats, including risk, liabilities, and security concerns in a risk registry. Consider impacts, trade-offs, and prioritize efforts while balancing factors like speed to market, cost optimization, and technology choices. Manage benefits and risks to make informed decisions, addressing risks as needed based on changing circumstances.
-  - Foster mutual understanding among teams about their roles, responsibilities, and shared goals to enhance collaboration. Recognize the customer, organizational context, team composition, and workload specifics that shape each team's needs, acknowledging that a single operating model may not suit all teams' diverse requirements within the organization.
-  - Verify that there are identified owners for each application, workload, platform, and infrastructurecomponent, and that each process and procedure has an identified owner responsible for its definition, and owners responsible for their performance.
-  - Comprehending the business value, purpose, and ownership of components and procedures guides team members' actions. Clearly define responsibilities and mechanisms for recognizing ownership. Foster innovation by enabling requests for changes and exceptions, while defining collaborative agreements between teams to ensure mutual support and business success.
-  - Support team members to enhance their effectiveness in contributing to business outcomes. Engage senior leadership to set expectations, sponsor best practices, and drive organizational evolution. Encourage proactive action by team members to address risks promptly, while ensuring clear communication of risks and events for timely and informed decision-making.
-  - Promote experimentation for continuous learning and engagement, enabling skill growth to adapt to new technologies and responsibilities. Dedicate structured learning time, provide necessary resources, and leverage cross-organizational diversity to enhance innovation, challenge assumptions, and reduce confirmation bias. Foster inclusion, diversity, and accessibility within teams to gain valuable perspectives and insights.
-  - Leverage tools like AWS Organizations and services such as AWS Control Tower for centralized environment governance across accounts, facilitating operating model management and automated provisioning. Partner with Managed Services providers, including AWS Managed Services, to implement cloud environments, ensuring security, compliance, and business objectives. Integrating Managed Services into your operating model streamlines operations, saves resources, and enables your internal teams to focus on strategic differentiation rather than acquiring new skills.
+The process of determining priorities involves several key steps that revolve around understanding the business context, evaluating needs and risks, fostering collaboration, and clarifying responsibilities. To effectively determine priorities:
+
+1. **Shared Understanding and Business Goals**: Having a thorough understanding of the overall team workload, individual responsibilities within that workload, and the common business goals is essential for effective team performance.. Setting priorities that align with these goals is essential for achieving overall business success.
+
+2. **Customer Needs and Stakeholder Involvement**: Priorities should be established by considering the requirements of both internal and external customers. Key stakeholders, including business, development, and operations teams, should participate in this evaluation process. This ensures that efforts are directed towards areas that deliver the most significant value.
+
+3. **Compliance and Governance**: To establish priorities, it's important to be aware of organizational guidelines, compliance obligations, and external factors such as regulatory standards. Adhering to these requirements ensures that the chosen priorities align with legal and industry-specific mandates.
+
+4. **Risk Assessment and Trade-offs**: Evaluating potential threats to the business, including risks related to business, information security, and liabilities, is essential. Balancing these risks with potential benefits and trade-offs helps in making informed decisions about where to focus efforts.
+
+5. **Collaboration and Interdependence**: Teams should have a clear understanding of their roles in achieving business outcomes. This includes recognizing their responsibilities, ownership, decision-making processes, and authority. Collaborative efforts and shared goals across teams maximize the overall benefits.
+
+6. **Flexibility and Adaptation**: Priorities need to be regularly reviewed and updated based on changing needs. Business environments evolve, and staying flexible allows for adjustments to be made as circumstances shift.
+
+7. **Ownership and Accountability**: Each application, workload, platform, and infrastructure component should have designated owners. Processes and procedures also require identified owners to ensure clarity in their definition and execution. This accountability ensures that responsibilities are clear and tasks are carried out effectively.
+
+8. **Business Value and Innovation**: The ability to comprehend the value and purpose of different components and processes within the business, and how they align with the overall objectives, guides the decisions and behaviors of team members, enabling them to make valuable contributions to the business goals.
+
+9. **Communication and Agreements**: Defining agreements between teams that outline how they collaborate and support each other is crucial. Open lines of communication facilitate effective cooperation and alignment towards common goals.
+
+10. **Continuous Improvement**: The determination of priorities is an ongoing process. Regularly assessing the effectiveness of chosen priorities, evaluating risks, and making necessary adjustments is key to optimizing business outcomes over time.
+
+In essence, the process of determining priorities involves a holistic understanding of the business landscape, collaboration among teams, risk assessment, accountability, and adaptability to changes. This comprehensive approach ensures that efforts are directed towards activities that drive business success while effectively managing risks and promoting innovation.
   </details>
