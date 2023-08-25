@@ -131,3 +131,19 @@ The process of determining priorities involves several key steps that revolve ar
 
 In essence, the process of determining priorities involves a holistic understanding of the business landscape, collaboration among teams, risk assessment, accountability, and adaptability to changes. This comprehensive approach ensures that efforts are directed towards activities that drive business success while effectively managing risks and promoting innovation.
   </details>
+
+<detail>
+<summary>
+How do you structure your organization to support your business outcomes?
+</summary>
+
+Structuring an organization to effectively support business outcomes requires a comprehensive approach that encompasses various key strategies and practices. By implementing the following measures, you can create an environment that facilitates success:
+
+1. **Empowerment and Support for Team Members**: Provide the necessary resources and support to enable team members to take effective action in line with business goals. Engage senior leadership to establish expectations and gauge success, creating a framework for performance measurement.
+
+2. **Engaged Senior Leadership**: Senor leadership should act as sponsors, advocates, and drivers for the adoption of best practices and the evolution of the organization. Their involvement sets the tone for organizational culture and direction.
+
+3. **Risk Management and Effective Communication**: Encourage team members to take proactive actions when outcomes are at risk. They should be empowered to escalate concerns to decision-makers and stakeholders when risks are identified, ensuring timely resolution. Provide clear and timely communication regarding known risks and planned events. This enables team members to respond promptly and appropriately, mitigating potential issues.
+
+4. **Encourage Experimentation and Learning**: 
+  </detail>
